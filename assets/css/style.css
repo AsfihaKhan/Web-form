@@ -83,6 +83,7 @@ main {
 	  display: flex;
 	  justify-content: space-between;
 	  align-items: center;
+	  gap: 5px;
 	  padding: 0 15px;
   }
   
